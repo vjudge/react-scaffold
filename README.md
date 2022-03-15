@@ -1,1 +1,1 @@
-# react-seed
+# react-scaffold
