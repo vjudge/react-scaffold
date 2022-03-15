@@ -16,11 +16,11 @@ class App extends Component {
     this.changeAvator = this.changeAvator.bind(this)
   }
 
-  changeUserName (e: any) {
+  changeUserName (e) {
     this.setState({ username: e.target.value })
   }
 
-  changePasswd (e: any) {
+  changePasswd (e) {
     this.setState({ passwd: e.target.value })
   }
 
